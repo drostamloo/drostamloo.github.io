@@ -31,6 +31,7 @@ url: "drostamloo.github.io" # the base hostname & protocol for your site, e.g. h
 theme: null
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 #  - jekyll-seo-tag
 
 defaults:
