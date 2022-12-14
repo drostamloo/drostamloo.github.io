@@ -75,3 +75,4 @@ include: [_pages]
 #   - vendor/ruby/
 exclude:
     - README.txt
+    - _posts/
