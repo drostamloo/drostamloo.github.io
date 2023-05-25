@@ -56,7 +56,7 @@ tags = "tags"
 
 [params]
 description = "Daniel Rostamloo's Homepage" # website description
-favicon = "favicon.ico" # path to website icon, relative to ./static
+favicon = "favicons/favicon.ico" # path to website icon, relative to ./static
 footnote = """
 """ # notes in the website footer
 keywords = ["daniel", "rostamloo", "math", "algebra", "algebraic geometry"] # website keywords
