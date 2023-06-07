@@ -34,9 +34,9 @@ name = "About"       # section display title
 url = "/"           # path to the section
 weight = 1          # order of sections
 [[menu.main]]
-identifier = "posts"
+identifier = "post"
 name = "Posts"
-url = "/posts/"
+url = "/post/"
 weight = 2
 [[menu.main]]
 identifier = "teaching"
