@@ -7,4 +7,6 @@ author = "Daniel Rostamloo"
 
 ## About
 
-This is the homepage of Daniel Rostamloo. As of September 2023, I am/will be beginning my graduate studies in mathematics at the [University of Washington](https://math.washington.edu). My interests are in arithmetic algebraic geometry and moduli theory.
+This is the homepage of Daniel Rostamloo. As of September 2023, I am/will be beginning my graduate studies in mathematics at the [University of Washington](https://math.washington.edu). My interests are in arithmetic algebraic geometry and moduli theory. My CV can be accessed [here](/CV.pdf).
+
+I can best be reached by emailing rostam[at]uw[dot]edu.
