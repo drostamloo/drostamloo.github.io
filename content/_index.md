@@ -1,6 +1,6 @@
 +++
-title = "About"
-description = "About Daniel Rostamloo"
+title = "Daniel Rostamloo's Homepage"
+description = "Homepage of Daniel Rostamloo, graduate student in mathematics at UW"
 date = "2023-06-07"
 author = "Daniel Rostamloo"
 +++

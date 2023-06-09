@@ -1,8 +1,9 @@
----
-title: "Teaching"
-date: 2023-06-08T11:30:49-07:00
-draft: false
----
++++
+title = "Teaching"
+description = "Teaching activities and resources"
+date = "2023-06-09"
+draft = false
++++
 
 ## Teaching
 
