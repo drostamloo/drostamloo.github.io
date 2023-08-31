@@ -11,4 +11,4 @@ This is the homepage of Daniel Rostamloo. As of September 2023, I am a first-yea
 
 The best way to reach me is by emailing rostam[at]uw[dot]edu.
 
-<img align="right" style="margin-left: 5rem" width="200" src="/me.jpg">
+<img align="center" style="margin-left: 5rem" width="200" src="/me.jpg">
