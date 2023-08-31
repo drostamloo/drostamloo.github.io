@@ -7,7 +7,7 @@ author = "Daniel Rostamloo"
 
 ## About
 
-<img align="right" style="float: right; margin-left: 7rem" width="200" src="/me.jpg">
+<img align="right" style="float: right; margin-right: 3.5rem; margin-left: 3.5rem" width="200" src="/me.jpg">
 
 This is the homepage of Daniel Rostamloo. As of September 2023, I am a first-year graduate student in mathematics at the [University of Washington](https://math.washington.edu). I was previously an undergraduate student in mathematics at the [University of California, Berkeley](https://math.berkeley.edu). My interests are in arithmetic algebraic geometry and moduli theory. My CV can be accessed [here](/CV.pdf). 
 
